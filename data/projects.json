@@ -1,0 +1,32 @@
+[
+  {
+    "id": "projet-exemple-1",
+    "titre": "Rénovation Complète d'une Longère",
+    "ville": "Beauvais",
+    "categorie": ["Rénovation", "Gros œuvre", "Carrelage"],
+    "contexte": "Transformer une ancienne longère en une habitation moderne et lumineuse tout en conservant son cachet.",
+    "objectifs": "Création d'espaces ouverts, rénovation de la toiture, isolation complète et aménagement des sols.",
+    "delais": "6 mois",
+    "materiaux": "Pierre de taille, chêne massif, carrelage grand format, enduits à la chaux."
+  },
+  {
+    "id": "projet-exemple-2",
+    "titre": "Extension Moderne et Piscine",
+    "ville": "Chantilly",
+    "categorie": ["Extension", "Piscines"],
+    "contexte": "Agrandir l'espace de vie d'une maison contemporaine en y ajoutant une extension avec accès direct à une nouvelle piscine.",
+    "objectifs": "Créer une pièce de vie de 40m², une terrasse en bois composite et une piscine enterrée.",
+    "delais": "4 mois",
+    "materiaux": "Ossature bois, bardage composite, baies vitrées aluminium, liner gris anthracite."
+  },
+  {
+    "id": "projet-exemple-3",
+    "titre": "Création d'un Dallage Extérieur",
+    "ville": "Compiègne",
+    "categorie": ["Gros œuvre", "Carrelage"],
+    "contexte": "Aménager une allée de garage et une terrasse dans le jardin d'un pavillon neuf.",
+    "objectifs": "Réaliser un dallage carrossable et une terrasse esthétique et durable.",
+    "delais": "3 semaines",
+    "materiaux": "Pavés en pierre naturelle, dalles en grès cérame."
+  }
+]
